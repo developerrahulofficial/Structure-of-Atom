@@ -1,5 +1,6 @@
 # Structure-of-Atom
 
+<img width="1141" alt="Screenshot 2023-07-31 at 1 18 16 PM" src="https://github.com/developerrahulofficial/Structure-of-Atom/assets/83329806/b5026aab-6bcc-4ac4-bcb1-450f384609e1">
 
 		transform: rotate(80deg) !important;
 		right: 14vmin !important;
